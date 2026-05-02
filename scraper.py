@@ -1,12 +1,15 @@
 from telethon import TelegramClient
 from telethon import TelegramClient, events
+from telethon.tl.functions.channels import JoinChannelRequest
 from dotenv import load_dotenv, find_dotenv
 import os
 import re
+import asyncio
+import aiofiles
 import win32com.client as win32
 
-olApp = win32.Dispatch('Outlook.Application')
-olNS = olApp.GetNameSpace('MAPI')
+# olApp = win32.Dispatch('Outlook.Application')
+# olNS = olApp.GetNameSpace('MAPI')
 
 
 load_dotenv(find_dotenv())
@@ -15,21 +18,23 @@ api_hash= os.getenv("API_HASH")
 
 client = TelegramClient('anon', api_id, api_hash)
 
-@client.on(events.NewMessage(from_users='IT Jobs وظائف تَقنيّة'))
-async def my_event_handler(event):
-    email_regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
-    email = re.findall(email_regex, event.raw_text)
-    if email:
-        mailItem = olApp.CreateItem(0)
-        mailItem.Subject = 'Hello 123'
-        mailItem.BodyFormat = 1
-        mailItem.Body = 'Hello There'
-        mailItem.To = 'alzlmsiyab@outlook.com'
-        mailItem.Sensitivity  = 2
-        mailItem._oleobj_.Invoke(*(64209, 0, 8, 0, olNS.Accounts.Item('SalmanSiy2002@outlook.com')))
+async def joinChannel(client, channel):
+    try:
+        client(JoinChannelRequest(channel))
+        print(f'successfully join channel {channel}')
+    except:
+        print(f'failed to join channel {channel}')
 
+async def scrapeMessage(client, channel, limit):
+    idx = 0
+    async for message in client.iter_messages(channel, limit):
+        if message.text:
+            async with aiofiles.open(f'jobs/job{idx}.txt', mode='w', encoding='utf-8') as f:
+                await f.write(message.text)
+            idx+=1
 async def main():
-    pass
+   await joinChannel(client, channel='https://t.me/itcjobs')
+   await scrapeMessage(client, channel='https://t.me/itcjobs', limit=100)
 
 with client:
     client.loop.run_until_complete(main())
