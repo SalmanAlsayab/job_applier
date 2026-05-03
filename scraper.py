@@ -34,7 +34,7 @@ async def scrapeMessage(client, channel, limit):
             idx+=1
 async def main():
    await joinChannel(client, channel='https://t.me/itcjobs')
-   await scrapeMessage(client, channel='https://t.me/itcjobs', limit=100)
+   await scrapeMessage(client, channel='https://t.me/itcjobs', limit=1)
 
 with client:
     client.loop.run_until_complete(main())

@@ -1,2 +1,0 @@
-Hello, world!
-Writing asynchronously is efficient.
