@@ -7,14 +7,22 @@ import re
 import asyncio
 import aiofiles
 import pathlib
+import json
 
-
+# loading telegram api
 load_dotenv(find_dotenv())
 api_id= os.getenv("API_ID")
 api_hash= os.getenv("API_HASH")
 
+# reading json for telegram channels url
+try:
+    with open('channels.json', 'r') as file:
+        data = json.load(file)
+        channels_url = data["channel"]
 
-channels_url = ["https://t.me/technomajed", 'https://t.me/itcjobs']
+except:
+    print("failed to read json file")
+
 
 client = TelegramClient('anon', api_id, api_hash)
 
@@ -28,9 +36,11 @@ async def joinChannel(client, channel):
 async def scrapeMessage(client, channel, limit):
     idx = 0
     email_regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+    # extracts the name of the telegram channel to use it as folder name
     folder_name = re.split('/', channel)[-1]
     pathlib.Path(folder_name).mkdir(exist_ok=True)
     async for message in client.iter_messages(channel, limit):
+        # checks that the message is not empty and is a job post
         if message.text and re.search(email_regex, message.text):
             async with aiofiles.open(f'{folder_name}/job{idx}.txt', mode='w', encoding='utf-8') as f:
                 await f.write(message.text)
