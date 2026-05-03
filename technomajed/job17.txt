@@ -1,0 +1,32 @@
+We are hiring IT Technical Manager to join our team in Jeddah office
+
+•Managed various implementations on following VMware products: VMware vSphere, VMware Horizon, Persona Management & App volumes, VMware vSAN, VMware NSX, VMware SRM and vROPS, VMware on AWS
+•Supervised various implementations and supported following storage technologies: Dell EMC- Dell EMC Clariion, Dell EMC VNX/VNXe, Dell EMC Unity, Dell EMC ISILON, Dell EMC CTA (Cloud tiering appliance), Netapp: Netapp FAS series 7-Mode Arrays, Netapp FAS series C-mode Arrays, Netapp E-series Arrays.
+•Administered the implementations on following HCI technologies: Dell EMC Vxrail, Nutanix AOS, AHV, Nutanix file services, Nutanix block services, Cisco Hyperflex, VMware vSAN
+•Successfully implemented following backup products: Veeam backup and replication for VMware, Hyper-V, physical servers, & Veeam One monitoring and reporting, Veritas Backup Exec, Dell EMC Networker, Dell EMC Data Domain
+•Implemented following Compute technologies: Cisco Blade Chassis, Servers, Fabric Interconnects, Dell Rack Servers, HP Racks Servers, Super Micro Rack Servers
+•Executed various data migration projects: VMware-
+Migration of P2V & V2V
+
+VM migration between various Storages
+•Managed NETAPP Data Migration:
+
+Migration of the data between NETAPP Storage Filers by using NETAPP snap mirror
+
+Production data switchover from old filers to new filers by doing head swap.
+
+7 Mode to C Mode data migration using 7MTT.
+•Dell EMC Data Migration:
+
+San copy pull method and San copy push method.
+
+Host based migration tools.
+
+Dell EMC Data Migration:
+
+•VMware on AWS Migration.
+
+Migrating on-prem Workload- HXC Migration.
+
+Please sent your cv to
+sameralbinni@gmail.com

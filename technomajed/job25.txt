@@ -1,0 +1,27 @@
+Job Opening: Software Engineer
+Location:Jeddah
+We are looking for Software Engineers to join our team and help develop solutions that improve our customer care operations.
+Key Responsibilities:
+o Develop, test, and maintain features for customer care applications and tools.
+o Write clean, efficient, and well-documented code in JavaScript and PHP.
+o Create and optimize SQL queries to manage and retrieve customer data.
+o Collaborate with the customer care team to understand requirements and translate them into technical solutions.
+o Troubleshoot and resolve basic technical issues related to supported applications.
+o Participate in code reviews to ensure code quality and knowledge sharing.
+ Required Qualifications & Skills:
+o 0–1 year of professional software development experience.
+o Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).
+ Technical Must-Haves
+o Solid understanding of core JavaScript
+o Hands-on experience with PHP
+o Basic SQL skills (SELECT, INSERT, UPDATE, JOINs)
+o knowledge of Linux commands
+o knowledge of API integration
+o knowledge of Postman for API testing
+Soft Skills
+o Strong problem-solving skills and attention to detail
+o Excellent communication skills and a collaborative mindset
+o Fluency in English (Arabic is a strong plus)
+How to Apply:
+Please submit your resume/CV to Muhammad.fayez682@gmail.com
+We are excited to hear from you!

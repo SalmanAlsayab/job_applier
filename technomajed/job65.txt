@@ -1,0 +1,20 @@
+We Are Hiring: Full-Stack Developer (Web & Mobile)
+Location: Riyadh – Saudi Arabia
+
+Requirements:
+ • 3+ years of proven software development experience.
+ • Backend: Strong proficiency in Node.js with MongoDB.
+ • Frontend: Solid experience with Angular (React knowledge is a plus).
+ • Mobile: Hands-on experience in developing iOS (Swift/SwiftUI) and Android (Java/Kotlin) applications.
+ • Proficiency in CI/CD pipelines implementation.
+ • Experience with Payment Gateway integrations.
+ • Familiarity with DevOps practices (deployment, monitoring, automation).
+ • Creative problem-solving skills and strong teamwork abilities.
+
+Benefits:
+ • Competitive salary and additional incentives.
+ • Professional and innovative work environment.
+ • Growth opportunities and involvement in cutting-edge projects.
+
+📩 To Apply:
+Send your CV to: hr@lajhar.net

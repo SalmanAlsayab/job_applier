@@ -1,0 +1,19 @@
+➡️ Senior Android Engineer
+
+⚫ Location: Riyadh
+
+Eligibility: Saudi Nationals only
+
+Key Requirements:
+* 4+ years of experience in Android development
+* Strong hands-on experience with Kotlin and Java
+* Solid knowledge of Android SDK and modern Android development practices
+* Experience with architecture patterns such as MVVM, MVP, or Clean Architecture
+* Experience with local databases such as SQLite or Room
+* Strong knowledge of REST API integration and secure mobile development
+* Experience with Git, testing, debugging, and CI/CD pipelines
+* Strong understanding of performance optimization and clean, maintainable code
+* Good collaboration and communication skills
+* Bachelor’s degree in Computer Science or a related field
+
+📩 To Apply: Send your CV to   dev.cis@hotmail.com

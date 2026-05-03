@@ -6,15 +6,15 @@ import os
 import re
 import asyncio
 import aiofiles
-import win32com.client as win32
-
-# olApp = win32.Dispatch('Outlook.Application')
-# olNS = olApp.GetNameSpace('MAPI')
+import pathlib
 
 
 load_dotenv(find_dotenv())
 api_id= os.getenv("API_ID")
 api_hash= os.getenv("API_HASH")
+
+
+channels_url = ["https://t.me/technomajed", 'https://t.me/itcjobs']
 
 client = TelegramClient('anon', api_id, api_hash)
 
@@ -27,14 +27,19 @@ async def joinChannel(client, channel):
 
 async def scrapeMessage(client, channel, limit):
     idx = 0
+    email_regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+    folder_name = re.split('/', channel)[-1]
+    pathlib.Path(folder_name).mkdir(exist_ok=True)
     async for message in client.iter_messages(channel, limit):
-        if message.text:
-            async with aiofiles.open(f'jobs/job{idx}.txt', mode='w', encoding='utf-8') as f:
+        if message.text and re.search(email_regex, message.text):
+            async with aiofiles.open(f'{folder_name}/job{idx}.txt', mode='w', encoding='utf-8') as f:
                 await f.write(message.text)
             idx+=1
 async def main():
-   await joinChannel(client, channel='https://t.me/itcjobs')
-   await scrapeMessage(client, channel='https://t.me/itcjobs', limit=1)
+    for channel in channels_url:
+    
+        await joinChannel(client, channel=channel)
+        await scrapeMessage(client, channel=channel, limit=100)
 
 with client:
     client.loop.run_until_complete(main())

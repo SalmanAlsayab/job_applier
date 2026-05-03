@@ -1,0 +1,28 @@
+Hello Team,
+
+Job title : software engineer
+Female Saudi only
+Location Jeddah
+
+We are looking for  Junior Software Engineers to join our dynamic team. In this role, you will be instrumental in developing and maintaining software solutions that directly enhance our customer care operations. This is a fantastic opportunity to build your career, working on real-world problems and making a tangible impact on the customer experience.
+Key Responsibilities:
+• Develop, test, and maintain features for our customer care applications and tools.
+• Write clean, efficient, and well-documented code in JavaScript and PHP.
+• Create and optimize SQL queries to manage and retrieve customer data.
+• Collaborate with the customer care team to understand their needs and translate them into technical solutions.
+• Troubleshoot and resolve basic technical issues related to the applications you support.
+• Participate in code reviews to ensure code quality and share knowledge.
+Required Qualifications & Skills:
+• 0-1 years of professional software development experience.
+• A degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).
+• Technical Must-Haves:
+◦ Solid understanding of core JavaScript.
+◦ Hands-on experience with PHP.
+◦ Proficiency in writing SQL queries (SELECT, INSERT, UPDATE, JOINs).
+◦ Foundational knowledge of computer networking (e.g., HTTP/HTTPS, APIs, TCP/IP basics).
+• Strong problem-solving skills and a keen attention to detail.
+• Excellent communication skills and a collaborative mindset.
+• Fluency in English; Arabic is a strong plus.
+How to Apply:
+Please submit your resume/CV to Muhammad.fayez682@gmail.com
+We are excited to hear from you!

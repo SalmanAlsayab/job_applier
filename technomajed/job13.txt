@@ -1,0 +1,59 @@
+🔸We’re Hiring: Full-Stack Developer & Tech Lead (Remote)
+
+▫️About the Role:
+ We are looking for a hands-on Full-Stack Developer & Tech Lead to take ownership of our websites, CRM, and internal tech systems. This leadership-track role combines development, process design, and team mentoring. You’ll work closely with the Managing Director and have the opportunity to build your own tech team as the company grows.
+
+▫️What You’ll Do:
+
+- Lead development and maintenance of PHP-based websites (English + Arabic).
+
+- Develop new features, pages, and internal tools with a focus on UX/UI and conversions.
+
+- Configure, automate, and manage CRM systems (Zoho preferred; Salesforce/HubSpot acceptable).
+
+- Document processes and enforce coding standards.
+
+- Troubleshoot website, CRM, and integration issues.
+
+- Collaborate with business teams to design scalable tech systems.
+
+- Mentor junior developers or freelancers in the future.
+
+▫️What We’re Looking For:
+
+- 5+ years in full-stack development (PHP, MySQL, JavaScript/React/Vue).
+
+- Strong CMS skills (WordPress, Elementor) and custom PHP experience.
+
+- CRM setup and automation experience (Zoho, Salesforce, HubSpot).
+
+- API/webhook knowledge, version control (GitHub/GitLab).
+
+- Bilingual website development (Arabic + English).
+
+- UX/UI optimization and website security knowledge.
+
+- Ownership mindset, strong leadership potential, and excellent communication.
+
+- Bachelor’s or Master’s in Computer Science, Software Engineering, or related field.
+
+▫️Benefits:
+
+- Competitive salary..
+
+- Remote work with flexible hours.
+
+- Opportunity to lead tech strategy and future team.
+
+- Growth path to Head of Technology / CTO.
+
+
+▫️Commitment:
+
+- Full-day, remote . 
+- On-site possible for local candidates (PR/Spouse visa).
+
+▫️Apply Now:
+
+Send your CV to
+hr@your-uni.com

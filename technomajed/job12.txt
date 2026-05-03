@@ -1,0 +1,20 @@
+➡️ Senior iOS Engineer
+
+⚫ Location: Riyadh
+
+Eligibility: Saudi Nationals only
+
+Key Requirements:
+* 4+ years of experience in iOS development
+* Strong hands-on experience with Swift and modern iOS development practices
+* Solid knowledge of SwiftUI and Combine
+* Experience with Core Data, REST APIs, and third-party integrations
+* Familiarity with Firebase services
+* Strong understanding of scalable architecture, clean code, and code reviews
+* Experience with Git, CI/CD pipelines, unit testing, and UI testing
+* Good knowledge of Apple Human Interface Guidelines and App Store submission process
+* Strong problem-solving, performance optimization, and collaboration skills
+* Bachelor’s degree in Computer Science or a related field
+
+
+📩 To Apply: Send your CV to   dev.cis@hotmail.com

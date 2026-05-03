@@ -1,0 +1,19 @@
+➡️ Senior Web Engineer
+
+⚫ Location: Riyadh
+
+Eligibility: Saudi Nationals only
+
+Key Requirements:
+* +4 years of relevant experience in web technologies
+* Strong hands-on experience with React.js, Next.js, and TypeScript
+* Experience building reusable components and libraries using Storybook
+* Good knowledge of state management frameworks such as Redux and Redux Toolkit
+* Strong understanding of modern React features, including server-side rendering
+* Experience writing clean, efficient, and maintainable code
+* Experience with unit testing frameworks such as Jest or Enzyme
+* Ability to participate in code reviews and contribute in a fast-paced environment
+* Knowledge of React Native is a plus
+* Bachelor’s degree in Computer Science or a related field
+
+📩 To Apply: Send your CV to   dev.cis@hotmail.com

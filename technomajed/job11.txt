@@ -1,0 +1,20 @@
+➡️ Senior Backend Engineer
+
+⚫ Location: Riyadh
+
+Eligibility: Saudi Nationals only
+
+Key Requirements:
+* 4+ years of experience building backend systems using Java/Kotlin
+* Strong experience with Spring Boot / Spring Framework, REST APIs, JDBC, and Hibernate ORM
+* Good experience with MySQL and PostgreSQL
+* Familiarity with caching technologies such as Redis
+* Knowledge of message brokers such as RabbitMQ
+* Experience with automated testing using JUnit
+* Familiarity with CI/CD tools such as Jenkins
+* Knowledge of APM and monitoring tools such as Datadog or New Relic
+* Exposure to code quality tools such as SonarQube
+* Strong understanding of distributed systems and backend performance
+* Bachelor’s degree in Computer Science, Information Technology, or equivalent
+
+📩 To Apply: Send your CV to   dev.cis@hotmail.com
