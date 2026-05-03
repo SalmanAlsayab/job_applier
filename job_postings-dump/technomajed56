@@ -1,0 +1,33 @@
+We are seeking an experienced **DevOps Lead** with a strong background in cloud infrastructure, containerization, and CI/CD pipelines. You will play a critical role in designing, implementing, and maintaining the infrastructure and deployment pipelines that support our engineering teams. As a key technical leader, you will drive best practices in automation, infrastructure as code (IaC), GitOps, and operational excellence.
+**Responsibilities**
+● Lead the design and implementation of scalable, secure, and highly available cloud-based infrastructure on **AWS, Azure, GCP, or other cloud platforms**.
+● Manage and optimize **Kubernetes clusters** and containerized workloads to ensure high performance and reliability.
+● Define and implement **Infrastructure as Code (IaC)** using Terraform, Pulumi, CloudFormation, or similar tools.
+● Champion **GitOps** methodologies to streamline infrastructure management and deployments.
+● Design, build, and maintain robust **CI/CD pipelines** to enable rapid and reliable software delivery.
+● Implement monitoring, logging, and alerting solutions using tools such as Prometheus, Grafana, ELK stack, or Datadog.
+● Collaborate with engineering teams to ensure DevOps best practices are integrated throughout the development lifecycle.
+● Drive automation efforts to reduce manual operational work and improve system reliability.
+● Ensure security best practices are followed in infrastructure, deployments, and access management.
+● Troubleshoot and resolve production issues, improving system reliability and response times.
+● Mentor and provide technical leadership to junior DevOps engineers and cross-functional teams.
+**Requirements**
+● **4+ years of hands-on experience in DevOps, Site Reliability Engineering (SRE), or Cloud Engineering roles.**
+● Expertise in at least one major **cloud provider** (AWS, Azure, GCP, etc.).
+● Strong understanding of **containerization (Docker, Podman, etc.)** and **orchestration (Kubernetes, OpenShift, etc.)**.
+● Experience with **Infrastructure as Code (IaC)** tools such as Terraform, Pulumi, or CloudFormation.
+● Proficiency in **CI/CD tools** like Jenkins, GitHub Actions, GitLab CI, ArgoCD, or Flux.
+● Solid understanding of **GitOps principles** and declarative infrastructure management.
+● Experience with monitoring and logging tools such as Prometheus, Grafana, ELK, or Datadog.
+● Strong scripting skills in **Bash, Python, or Go** for automation and infrastructure management.
+● Knowledge of **networking, security best practices, and cloud-native architectures**.
+● Experience in **managing production-grade Kubernetes clusters** and troubleshooting complex distributed systems.
+● Familiarity with database management and scaling strategies.
+**Nice to Have**
+● Experience with **serverless architectures** and cloud-native services.
+● Familiarity with **service mesh technologies** (Istio, Linkerd, etc.).
+● Hands-on experience with **FinOps** and optimizing cloud costs.
+● Previous experience in **regulated environments** (e.g., fintech, healthcare, banking).
+
+If you are interested send your CV to the below email: 
+Razanfa@hotmail.com

@@ -1,0 +1,14 @@
+We are looking Resident Engineer for Saudi location.
+
+Key Responsibilities include:
+·      Implementing Cisco Catalyst 9000 and Nexus switching environments, utilizing VLANs, STP, vPC, and VSS.
+·      Configuring high-availability routing and WANs using MPLS, DMVPN, and FlexVPN.
+·      Troubleshooting and optimizing networks with Cisco DNA Center, NetFlow, and AppDynamics (a plus).
+ 
+Requirements:
+·      CCNP Enterprise or Data Center (preferred) with 5+ years in Cisco Routing & Switching.
+·      Routing Protocols: Expert-level knowledge of EIGRP, OSPF, BGP, and MPLS with experience in route optimization and policy-based routing.
+·      Switching Technologies: Advanced experience with Cisco Catalyst 9000 and Nexus switches. Expertise in VLANs, Spanning Tree Protocol (STP), VSS, and vPC.
+·      Data Center Switching: Expertise in Cisco Nexus 9000 with VXLAN, FabricPath, and EVPN for scalable data center designs.
+
+Interested candidates can share cv on sakeena.bano@flintmail.com

@@ -1,0 +1,27 @@
+🚀 Exciting Opportunity for Saudi Nationals: Tech Lead for Waada KSA!
+
+Join Waada, a Pre-Series A insurtech startup, as a Tech Lead and help transform the insurance industry in Saudi Arabia. Lead technical execution, manage integrations, and grow Waada to become the #1 digital insurer in MENA!
+
+About Waada 💡
+Waada is entering the Saudi market with strong backing and is the 2nd licensed digital underwriter under the Saudi regulatory sandbox. Launching in 6 months with plans to dominate MENA region in 5 years. Visit https://waada.pk/ksa/ for more info.
+
+Your Role as Tech Lead 🎯
+- Implement cybersecurity regulations, ensure ongoing compliance and manage  cloud infrastructures.
+- Coordinate with agents, distribution partners and international teams. 
+- Act as the technical point of contact for Waada KSA. 
+- Liaise with internal auditors and external consultants on audits and security matters. 
+- Own project delivery — from integration to rollout.
+
+What We’re Looking For 🔑
+- Willingness to both manage and develop in a fast-paced, startup environment.
+- Strong experience with ReactJS and at least one compiled language (Java/C#).
+- Experience with cloud stacks (e.g., Microsoft Azure) and DevOps principles.
+- Ability to coordinate with international teams and represent Waada KSA as the local tech voice.
+- Strong ability to write clear technical documentation, read and analyze technical architecture and specs.
+
+Why Join Waada? ✨
+- Full-time position in Riyadh.
+- Opportunity to grow into the CTO role.
+- Competitive salary and career growth..
+
+⬇️ Ready to shape the future of insurance in KSA? Apply now to h.abimbola@dynko.pro

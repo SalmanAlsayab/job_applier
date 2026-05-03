@@ -1,0 +1,17 @@
+Network Engineer
+Location: Riyadh
+
+Qualifications
+• Bachelor’s degree in information technology, Computer Information Systems, or Computer Engineering
+• 5+ years’ experience as a network engineer or in a similar NetOps role
+• Professional certification (e.g., CCNP, CCDP) • Industry-related experience as a Senior Network Engineer or Network Administrator
+• Solid background in network administration and architecture
+• Familiarity with access control models and network security
+• Experience with network diagnostic, monitoring, and analysis tools.
+• In-depth knowledge of configuring and deploying network switches and routers, including VLANs and routing protocols
+• Experience with the design, provisioning, and troubleshooting of WAN and LAN connectivity technologies (e.g., MPLS, LACP)
+• In-depth understanding of priority queuing, Class of Service (CoS), and Quality of Service (QoS)
+• Knowledge and familiarity with NGFW and UTM
+• Experience with coding/scripting/automation platforms (e.g., Python, Ansible)
+
+Email: aamal@aamal-it.com

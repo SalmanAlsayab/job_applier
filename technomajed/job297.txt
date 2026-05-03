@@ -1,0 +1,10 @@
+Location: Dubai 
+
+Role : Full Stack Developer
+Experience : 3+ Years
+Location : Ajman
+Salary : AED 15,000 fixed
+Notice : Immediate 
+Skills : .net core,SQL,C#,Angular(mandatory)
+
+If interested, please share your resume to kprabhu@reachgroup.ae

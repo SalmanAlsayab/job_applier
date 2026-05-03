@@ -49,7 +49,7 @@ async def main():
     for channel in channels_url:
     
         await joinChannel(client, channel=channel)
-        await scrapeMessage(client, channel=channel, limit=100)
+        await scrapeMessage(client, channel=channel, limit=500)
 
 with client:
     client.loop.run_until_complete(main())

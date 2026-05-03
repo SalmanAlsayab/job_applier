@@ -1,0 +1,22 @@
+Junior System Administrator Engineer 
+
+We are currently looking for Junior  System Administrator Engineer for Alexandria University, Egypt.
+
+*at  Alexandria
+* Bachelor Degree of Computer Science or Computer  Engineering or relavent fields 
+* 0 -2 years experience
+
+Job Requirments:
+
+* knowledge in Linux operating system and its different distributions. 
+* knowledge in windows server
+* knowledge in servers hardware components.
+* knowledge in  different services running on Linux  systems.
+* knowledge in  virtualization  systems ( VMware , citrix, hyperV)
+* Knowledge in Backup solutions 
+* knowledge in  storage systems
+* knowledge in web hosting control panels
+* Knowledge in monitoring tools
+
+If you interested please send your CV to : s.adel@alexu.edu.eg
+with subject "Junior System Administrator Engineer"
