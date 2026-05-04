@@ -1,298 +1,603 @@
 {
+    "hr.applysa@gmail.com": [
+        "IT Support Engineer"
+    ],
+    "dev.cis@hotmail.com": [
+        "Senior Android Engineer",
+        "Senior Backend Engineer",
+        "Senior iOS Engineer"
+    ],
+    "Recruitments@zamil.sa": [
+        "Operations Coordinator"
+    ],
+    "talents.amjad@gmail.com": [
+        "IT Manager"
+    ],
+    "adela@dautom.com": [
+        "Senior Project Manager - IT Infrastructure Project"
+    ],
+    "it@hwadi.com": [
+        "IT Manager"
+    ],
+    "SElsayed@saccompany.com.sa": [
+        "IT support"
+    ],
+    "assistant.chairman@ashouryholding.com": [
+        "IT Supervisor"
+    ],
+    "careers@mehwaraleqtisad.com": [
+        "Not specified"
+    ],
+    "Ahmed.khaled@next-tech.com.eg": [
+        "Senior Infrastructure Engineer, Senior System Administrator, Senior Technical Support, Senior Information Security Engineer, Senior IAM Engineer"
+    ],
+    "HR@sa.tuv.com": [
+        "IT Administrator"
+    ],
+    "it.department.opp@gmail.com": [
+        "IT Specialist"
+    ],
+    "recruitment.hr2035@gmail.com": [
+        "مدير إدارة مخاطر ماليه",
+        "Service Transition Specialist"
+    ],
+    "amc@almansouryah.com, gawedalameri@gmail.com": [
+        "مهندس IT"
+    ],
+    "HR-jobs9@outlook.sa": [
+        "فني دعم تقنية معلومات"
+    ],
+    "mkhanmir@alasilacx.sa": [
+        "Cloud Engineers/Architects, Database Administrator, Server Administrator, IT Project Manager"
+    ],
+    "vigneshwari@dautom.com": [
+        "Cybersecurity consultant"
+    ],
+    "careerhiring610@gmail.com": [
+        "IT Security Specialist"
+    ],
+    "talent@fajr.sa": [
+        "IT Senior Consultant, Risk Advisory Services",
+        "IT Assistant Manager, Risk Advisory Services"
+    ],
+    "junaid.khan@goaheadconsulting.co.uk": [
+        "IT Security GCP Engineer"
+    ],
+    "recruitmentcvs10@gmail.com": [
+        "IT Support helpdesk"
+    ],
+    "hr@texploreit.com": [
+        "Senior Oracle DBA and Apps DBA"
+    ],
+    "zeeshan@talentarabia.com": [
+        "Senior IT Expert"
+    ],
+    "waad.hr0@gmail.com": [
+        "System Administrator"
+    ],
+    "abdulmalik@dataplusbiz.com": [
+        "BI Consultant, Data Analyst, Data Engineer, project Manager"
+    ],
+    "hiring.ksa@smartwindow.sa": [
+        "Project Manager"
+    ],
+    "sdoherty@welovesalt.com": [
+        "Head of Delivery – SDLC, Head of Delivery – Testing & Quality"
+    ],
+    "priya@myhtptech.com": [
+        "Engineer - IT Support",
+        "IT Support Engineer"
+    ],
+    "Anitha@talent-arabia.com": [
+        "C#, Dot Net Developer"
+    ],
+    "Jobs@jalint.com.sa": [
+        "Business System Analyst, Field Compliance Coordinator, Designer, lead engineer"
+    ],
+    "sarita.sakhare@itpeoplegulf.com": [
+        "Network Infrastructure Specialist"
+    ],
+    "hr@your-uni.com": [
+        "Full-Stack Developer & Tech Lead"
+    ],
+    "careers.dxb@saudigerman.com": [
+        "Sales Representative, Procurement Head, Sr. Financial Analyst, Treasury Analyst, IT Infrastructure and Operations, IT Support, Cyber Security Specialist, Radiographer, Patient Experience Officer, Collection Supervisor, Head of Treasury"
+    ],
+    "s.shaikh@deltaline-it.com": [
+        "ICT Engineer (Airport Experience) – Server and Storage Specialist"
+    ],
+    "hr@skcmanagement.com": [
+        "Senior Database Administrator, Senior System Administrator (IT Infrastructure), Network Administrator (Sr. IT Infra Services Architect - Projects Sites)"
+    ],
+    "Omar.ghazaly@hays.com": [
+        "PMO Manger"
+    ],
+    "fshafiq@i2cinc.com": [
+        "Network Administrator"
+    ],
+    "firstib.sa@gmail.com": [
+        "مسؤول تقنية معلومات"
+    ],
+    "jobs@zaidg.com": [
+        "Application Support Specialist"
+    ],
+    "M.elsharkawy@armada-sa.com": [
+        "Site Engineer (Low Current / IT Systems)"
+    ],
+    "Jobs@hasib.com.sa": [
+        "مهندسة تطوير برمجيات، مختبرة أتمتة جودة البرمجيات",
+        "IT Sales Engineers and Software Development Team Leader",
+        "مختبرة جودة برمجيات, مختبرة اتمتة جودة برمجيات, مطورة برمجيات"
+    ],
+    "omniaelshamy@sis.net.sa": [
+        "IT Project Manager",
+        "Ericsson Network_Engineer"
+    ],
+    "work@datailer.com": [
+        "Junior IT Support Specialist"
+    ],
+    "usama.mustafa@jbs.live": [
+        "System Administrator"
+    ],
+    "m@khita.tech": [
+        "Projects coordinator, Social Media coordinator"
+    ],
+    "Job@hr360s.com": [
+        "UI/UX"
+    ],
+    "hr@saudidict.com": [
+        "T24 TAC (Temenos Advanced Collection)"
+    ],
+    "Saralassmii@gmail.com": [
+        "IT Officer – Odoo Expert"
+    ],
+    "raina.nausheen@mindpool-tech.com": [
+        "Fullstack Developer",
+        "SAP EWM Consultant"
+    ],
+    "Razanfa@hotmail.com": [
+        "DevOps Lead"
+    ],
+    "jobsinternationalschools@gmail.com": [
+        "IT Officer"
+    ],
+    "Abdulaziz.hh@outlook.sa": [
+        "مهندسة شبكات ودعم فني"
+    ],
+    "a.alotaibbi2@gmail.com": [
+        "محلل اعمال - Business Analyst"
+    ],
+    "jobs@acecranes.com": [
+        "IT System Administrator"
+    ],
+    "career@supercellnetwork.com": [
+        "Sr. Sysadmin, Sr. DBA, Sr. Network Administrator, Sr. Application Security, Sr. IT Governance, Information Security Manager, IT Support (Helpdesk)"
+    ],
+    "Recruitment@saudibrothers.com": [
+        "IT Technical Support"
+    ],
+    "ziad.tarek@sisglobal.net": [
+        "Network Configuration Engineer"
+    ],
+    "ian.mclean@ssaltd.com": [
+        "Project Manager"
+    ],
+    "Hr@aqwas.sa": [
+        "Senior System Developer",
+        "محلل أعمال Business Analysts",
+        "Senior Integration Developer",
+        "Frontend Developer",
+        "Data Engineer, Senior System Developer, Senior ETL Developer"
+    ],
+    "rec.jobshr@gmail.com": [
+        "Senior Network & Security Lead"
+    ],
+    "Harrison.Pickett@whitehallresources.com": [
+        "SAP Programme Manager",
+        "SAP Success Factors Architect"
+    ],
+    "contact@dhcgroup.ae": [
+        "Systems Administrator"
+    ],
+    "talent.ksa@pico.com": [
+        "Senior Project Manager, Junior Accountant, Technical Engineer (CAD), Design Coordinator, Technical Architect"
+    ],
+    "cv@sky-grp.com": [
+        "Software development, Machine Learning, IT Administrators"
+    ],
+    "anan.ali@naos-solutions.com": [
+        "IT Manager"
+    ],
+    "Careers@riyadh-cables.com": [
+        "Network Administrator"
+    ],
+    "Moalchamey@gmail.com": [
+        "Senior Consultant in GRC"
+    ],
+    "jobs@b8ak.com": [
+        "Tech Lead"
+    ],
+    "jobs@altanmiyah.edu.sa": [
+        "IT Manager"
+    ],
+    "sameralbinni@gmail.com": [
+        "IT Technical Manager"
+    ],
+    "Al_chamey@yahoo.com": [
+        "Sales Engineers & Sales Account Managers"
+    ],
+    "alfa-jobs@alfaco.com.sa": [
+        "IT Specialist, Software Analyst"
+    ],
+    "smartcircle6@gmail.com": [
+        "مدير مشاريع واستشاري إدارة مشاريع"
+    ],
+    "Najla.alsehali@gmail.com": [
+        "IT Help Desk"
+    ],
+    "a.salah@jari.sa": [
+        "Software Solution Architect, Senior Product Owner/Scrum Master, Senior Business Analyst, Software Technical Lead"
+    ],
+    "Job4@horizon.sa": [
+        "مدير مشروع، مهندس نظام"
+    ],
+    "hr.director@forcesplus.com": [
+        "IT Manager"
+    ],
+    "Anasya.mohamed.hossam@huawei.com": [
+        "Project Manager (FINTECH)"
+    ],
+    "rec.cv96@gmail.com": [
+        "Senior Project Manager – IT",
+        "Software Engineer, Network Engineer, IT Support"
+    ],
+    "maheswari.m@hashroot.com": [
+        "System Administrator"
+    ],
+    "ayesha@kbctechnologies.com": [
+        "Microsoft Active Directory Administrator",
+        "network admin/ Network engineer"
+    ],
+    "Lightuponlight23@gmail.com": [
+        "Product manager"
+    ],
+    "hr@s3-ksa.com": [
+        "Senior Software Engineer, Hardware and Software Engineer"
+    ],
+    "Hr2@goldintg.com": [
+        "IT Officer"
+    ],
+    "r.naeem@pcc.net.sa": [
+        "Oracle Apps Technical Consultant"
+    ],
+    "hr@linking.qa": [
+        "senior UI/UX Designer"
+    ],
+    "Waad.hr0@gmail.com": [
+        "odoo function",
+        "System Administrator"
+    ],
+    "B2bservice.saudi@gmail.com": [
+        "Data Engineer and Fluttter Developer"
+    ],
+    "recruitertq@gmail.com": [
+        "Technical Support"
+    ],
+    "nada4it@gmail.com": [
+        "مطور أول تكامل (Integration Senior Developer)"
+    ],
+    "Career@innovest.com.sa": [
+        "ERP Consultant"
+    ],
+    "danah.alsuwailim@hakagroup.co": [
+        "Lead IT Systems Analyst"
+    ],
+    "MAsiri.talentacquisition@gmail.com": [
+        "iT Officer"
+    ],
+    "Info@alhoreca.com": [
+        "cybersecurity professional"
+    ],
+    "Recruitment@talholding.sa": [
+        "IT Manager"
+    ],
+    "Anas.janajrah@thepalladiumgroup.com": [
+        "Data Modelling",
+        "IoT platform engineer, DevOps engineer, project engineer, Solutions engineer, QA/QC Manager, project manager, design engineer, HSE Lead"
+    ],
     "itcv.rec@gmail.com": [
         "IT Support"
     ],
     "Rubix.InnoTeck@gmail.com": [
         "IT Support Technician, Field Network Technician, Video Conference Systems Technician, CCTV Systems Technician, Systems & Servers Engineer, Backup & Storage Engineer, Data Center Technician, Oracle Cloud Infrastructure (OCI) Engineer, Network Team Leader, Senior Network Engineer, Information Security Engineer, System Security Specialist, Systems Analyst / Integration Specialist, Application Developer, Oracle Database Administrator (DBA), E-Learning Support Specialist, Project & Operations Manager, Quality & Performance Analyst"
     ],
+    "job4@horizon.sa": [
+        "مهندس نظام, مبرمج .Net, مبرمج SharePoint"
+    ],
+    "careers@agileitss.com": [
+        "Dot Net Developer"
+    ],
+    "nour.ashraf@conservmisr.com": [
+        "Security Engineer",
+        "Network Engineer"
+    ],
+    "prince.m@focusinfotech.com": [
+        "Desktop Support Engineer L2"
+    ],
+    "jobs@mcbfunds.com": [
+        "System Administrator"
+    ],
+    "o.rahman@arabcalibers.com": [
+        "IT Project Manager, Technical Consultant, Techno Functional Consultant, Portfolio Manager",
+        "IT Project Manager"
+    ],
+    "jobs@kalamntina.com": [
+        "Senior Data Management Consultant"
+    ],
     "nswr196@gmail.com": [
         "Junior Electrical & Electronics Engineer"
     ],
+    "surjith.cm@linnk.com": [
+        "IT Project Manager"
+    ],
+    "Jobs@business-z.com": [
+        "Branch Manager, Airfreight Manager, Sea Freight manager, Transportations Manager, Operations Manager, Operations Executives"
+    ],
+    "Recruiter@mfaheem.com.sa": [
+        "Site Electrical Engineer"
+    ],
+    "S.AlShalbi@diyarme.com": [
+        "Senior IT Engineer",
+        "System Engineer"
+    ],
+    "hrdubai@hisense.com": [
+        "Project Manager"
+    ],
+    "recruitment@csc-sa.com": [
+        "Business Development Manager"
+    ],
+    "amit.k@tamimi.sa": [
+        "AP manager, senior accoutant, Chief accoutant, site accountant"
+    ],
     "Jobs@axs-sa.com": [
-        "Account Manager",
-        "Software Engineering",
-        "Data Backup and protection Engineer"
+        "Account Manager"
+    ],
+    "Hacene.ayadi@dopet.com": [
+        "Senior Document Controller"
+    ],
+    "K.recruiter@alarabi92.com": [
+        "Projects_Director, Project_Manager, Planning_Director, Equipment _Manger, Executive_Secretary"
+    ],
+    "samiya.islam@vservit.com": [
+        "Network engineer L1"
+    ],
+    "syed.nemathullah@royalcyber.com": [
+        "Scrum Master"
+    ],
+    "naina.venne@cygnusit.com": [
+        "Testing and Commissioning Manager"
+    ],
+    "acelus@elitrecruit.com": [
+        "IT Asset Management Engineer"
+    ],
+    "raza.hasssan@hexalyze.com": [
+        "Program Manager, HR Manager, IT Manager, IT Operations & Support, Training Manager, Community Manager, Marketing & Partnership Manager, Creative Designer, Admin/Facility Manager"
+    ],
+    "mklasson@proven-sa.com": [
+        "SOC Analysts, ICS/OT Cybersecurity Analysts, Senior Threat Intelligence Specialists, DFIR - Digital Forensics and Incident Response, Senior Vulnerability Assessment Specialist, Senior Penetration Testing Specialist",
+        "Senior IT Support Engineers",
+        "Systems and Network Administrators"
+    ],
+    "hr@stsksa.com": [
+        "QS Civil, Electrical and Mechanical, Junior Planning Engineer, QA/QC Engineer, Safety Engineer, Electrical Cost Control Engineer, Mechanical Cost Control Engineer, Electrical Estimator Engineer, Electrical Engineer, Mechanical Engineer, QS Mechanical and Electrical Engineer, Electrical and Mechanical BIM Modeler, Architect Supervisor, Architect Engineer"
+    ],
+    "karen.kassabgy@hays.com": [
+        "Applied Scientist, BI Lead, BI Insights Analyst, NLP Director, Data Enterprise Architect, Senior Data Engineer, Senior Technical Software Engineer, Senior Software Engineer (Java), Senior Software Engineer (React)"
     ],
     "Maryam.helal@sundusglobal.com": [
         "Oracle Database Administrator (DBA)"
     ],
+    "aya.rafat@sigma-it.net": [
+        "Senior System Admin, Storage Administration Engineer, Backup Administration Engineer"
+    ],
+    "Sakeena.bano@flint-international.me": [
+        "Sr. Network Engineer"
+    ],
+    "salma.a@marc-ellis.com": [
+        "Agile Project Manager"
+    ],
+    "satish.kumar137@wipro.com": [
+        "L2/L3 Network Security Engineer"
+    ],
+    "n.fatima@netlabssolutions.com": [
+        "Network Engineer"
+    ],
+    "career@alabeer.ae": [
+        "IT Support Executive"
+    ],
+    "recruit@jaddarah.com": [
+        "Contract Specialist, Civil/Structure Engineer, Recruitment Sourcing Specialist, Risk Management Specialist/Engineer, Principal Electrical Design Engineer, Senior Civil Design Engineer, Senior Instrumentation Design Engineer, Senior Mechanical Design Engineer, Environmental Engineer"
+    ],
+    "Marzuk@comm-it.com.sa": [
+        "Sr. Network Security Engineer"
+    ],
     "Ta.itjobs.26@gmail.com": [
-        "\u0645\u062d\u0644\u0644 \u0623\u0639\u0645\u0627\u0644, \u0645\u0637\u0648\u0631 Angular, \u0645\u0637\u0648\u0631 .Net"
+        "محلل أعمال Business Analysts, مطور Angular, مطور .Net"
+    ],
+    "hiring@emdad.ae": [
+        "IT Support Engineer"
+    ],
+    "lidya@kbctechnologies.com": [
+        "MDM, Senior DPM (Informatica), Data Modeler, Data Architect, Integration Architect, Google Cloud Platform (GCP) Cloud Engineer, System Admin (Informatica), System Admin - SAG (Software AG) with Container Installation, Apigee Administrator, Sr. Umbraco Developer",
+        "Senior Project Manager"
+    ],
+    "Shababwatansa@gmail.com": [
+        "مدير تطوير مواقع الكترونية"
+    ],
+    "cv@khashoggilaw.com": [
+        "Mid-level Network and computer systems administrator"
+    ],
+    "Career@tanizze.com": [
+        "Customer Service Coordinator"
+    ],
+    "MEP.Careers@crcc.sa": [
+        "QC Manager, QC Plumbing Inspector, QC Welding Inspector, Electrical Engineer, MEP Quantity Surveyor, Document Controller"
+    ],
+    "ankita.thakur@intertouch.com": [
+        "Network Engineer"
     ],
     "Muhammad.fayez682@gmail.com": [
-        "Software Engineer",
-        "Sales Enginner",
-        "software engineer"
+        "Software Engineer"
+    ],
+    "hr@albouriest.com": [
+        "Human Resources Business Partner, Human Resources Specialist, Agriculture Engineer"
+    ],
+    "faizan@mindpool-tech.com": [
+        "Oracle EPM - Strategic modelling and tax reporting"
+    ],
+    "info@cartafella.com": [
+        "System Administrator (L3)"
+    ],
+    "syednaveed.uddin@cns-me.com": [
+        "Senior Network Security Architect/Engineer"
+    ],
+    "Ali.emam1@huawei.com": [
+        "Communication Engineer, Telecommunication Engineer, Computer Engineer, Cyber security Engineer, Electronics engineer, Information Technology Engineer"
+    ],
+    "zainabmujahid@kamayi.pk": [
+        "Business Intelligence Specialist"
+    ],
+    "hr@wathiqconsultancy.com": [
+        "Administrative Assistant, Accountant"
+    ],
+    "a.passant@leadergroup.com": [
+        "IT Manager"
+    ],
+    "kirthika.r@lancesoft.com": [
+        "IT Infrastructure L2 Engineer"
     ],
     "f.alharthi@alshghaf.sa": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062a\u0642\u0646\u064a\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a"
+        "أخصائي تقنية معلومات (IT)"
+    ],
+    "Rabiya.Khan@intalio.com": [
+        "Infrastructure Engineer"
+    ],
+    "tuka.nabil@queueo.com": [
+        "Technical support engineer"
+    ],
+    "mohamed.abdalhay@orange.com": [
+        "network engineer"
+    ],
+    "usha.kumari@hmsco.ae": [
+        "IT-System Administration"
+    ],
+    "w.sinada@minaexc.com.sa": [
+        "Projects Manager - FTTx / IOT"
+    ],
+    "hr1@erth.sa": [
+        "Sales Channels Partnership Manager, Procurement and Contracts Director, Assets Director, Marketing Manager"
     ],
     "anasjan.t@gmail.com": [
         "SAP Implementation Consultant",
         "IT Consultant"
     ],
+    "Careers@smartcode.com.sa": [
+        "Head of Fixed Assets"
+    ],
+    "mahmoud.abdelfattah@finest-his.com": [
+        "System Administrator, Network Engineer, Full Stack Developer"
+    ],
+    "jobs@zamilconstruction.com": [
+        "Procurement Civil Engineer, Procurement Mechanical Engineer, Procurement Planner & Coordinator, Sr. Civil QS Engineer, Sr. MEP QS Engineer"
+    ],
+    "careers@supconsaudi.com": [
+        "IT Engineer"
+    ],
+    "HannahT@Kingstonstanley.com": [
+        "Head of Infosec"
+    ],
+    "salim.shaikh@unionsystechnologies.com": [
+        "Service Delivery Manager"
+    ],
+    "ashaikh@saudigerman.com": [
+        "IT Support Engineer, IT Developer"
+    ],
+    "Rawan.Mostafa@techno-island.com": [
+        "Software Sales"
+    ],
+    "ola.farid@sammangroup.com": [
+        "Senior Construction Manager, Interior Design Architect, ICT/ Telecom Engineer, Logistics Manager, Project Information Manager (BIM Coordinator), Landscape architect, Senior Project Controls Manager, Commercial Manager, Contract Manager"
+    ],
+    "malafifi@ir4lab.com": [
+        "Customer Success senior specialist"
+    ],
+    "hr@utcbh.com": [
+        "Business Development Manager (ICT Sector), IT Helpdesk Support, System Administrator, .NET Developer, Oracle Developer, Computer/Hardware Repair Technician, ELV Technician - Home Automation"
+    ],
+    "jobs@enrollmeuae.com": [
+        "IT Manager"
+    ],
+    "Hrsa@tmcosa.com": [
+        "Civil Engineer, Planning Engineer, Quantity Surveyor Engineer, Contracts Engineer, Quality Control Engineer, Document Control, Accountants"
+    ],
+    "ahmadjob633@gmail.com": [
+        "Sales Engineer"
+    ],
+    "snaqi@sraco.com.sa": [
+        "Project Manager"
+    ],
+    "K.afifi@profast.sa": [
+        "BIM Technical office engineers, Site Engineers, Safety Manager, Safety Engineer, Safety Officer, Quality Manager, Quality Eng. Arch, Quality Eng. Civil, Quality Eng. MEP, Quality Supervisor, Cost Control Engineer, Planning Engineer, Contract Engineer, Procurement Engineer, Document controller"
+    ],
+    "Hr@safecotech.com": [
+        "IT Help Desk and System Administrator"
+    ],
     "recruitment@royaleblue.net": [
         "Pre-Sales Specialist"
     ],
+    "shikhasingh@lancesoft.com": [
+        "Problem Management Analyst"
+    ],
+    "abhi@neravu.com": [
+        "Oracle DBA consultant"
+    ],
+    "tabish@kbctechnologies.com": [
+        "Business Analyst & UAT Lead"
+    ],
+    "dina.ahmedh@orange.com": [
+        "L1 Technical Support Network Engineer"
+    ],
+    "career@goldenchicken.com.sa": [
+        "Supervisor, Utility Foreman, Maintenance Foreman, CCQC Checker, QC Checker, Digital Marketing Manager, Branch Sales Manager, Key Account Senior Supervisor, Key Account Team Leader, Merchandiser, Team Leader Merchandiser, TT Sales Team Leader, FICO - Junior Resource, Procurement Officer, Sr. Thermoking Refrigeration Technician, Transportation Manager, Storekeeper, Accountant Receivable"
+    ],
+    "recruitment@groupimar.com.qa": [
+        "Planning Engineer, Architectural Draftsman, ELV Draftsman, Civil Draftsman"
+    ],
+    "talentailorteam@talentailor.com": [
+        "IT Application Specialists, Oracle System & Database Administrators"
+    ],
+    "kprabhu@reachgroup.ae": [
+        "Full Stack Developer"
+    ],
+    "cv@uni-serve.me": [
+        "IT procurement supervisor, Application Supervisor, Application Manager, Technical support Engineer, System administrator, Network and Security administrator, IT Security Manager, Developer, Business Analyst"
+    ],
+    "Eslam.shawky@andalusiagroup.net": [
+        "IT System Administrator / Technical Support"
+    ],
     "careers@livehued.com": [
-        "Technical Product Manager",
-        "Content Management Specialist (Digital Platforms)",
-        "\u0645\u0637\u0648\u0631 \u0645\u0648\u0627\u0642\u0639 Drupal",
-        "\u0645\u062f\u064a\u0631 \u0645\u0634\u0631\u0648\u0639 \u062a\u0642\u0646\u064a (\u0633\u0643\u0631\u0645 \u0645\u0627\u0633\u062a\u0631)",
-        "\u0645\u0633\u062a\u0634\u0627\u0631 \u0645\u0624\u0634\u0631\u0627\u062a \u0623\u062f\u0627\u0621 \u0648\u0637\u0646\u064a\u0629",
-        "\u0645\u062f\u064a\u0631 \u0645\u0646\u062a\u062c \u062a\u0642\u0646\u064a",
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062f\u0639\u0645 \u062a\u0642\u0646\u064a \u0648\u062a\u0634\u063a\u064a\u0644"
+        "Technical Product Manager"
     ],
     "recruitmentsbshr@gmail.com": [
-        "Project Manager (Cybersecurity), Project Manager (Data Team), Penetration Tester, Business Development"
+        "Project Manager, Penetration Tester, Business Development"
     ],
-    "HR@albinalico.com": [
-        "IT Supervisor"
+    "Recruitment.TCT@swatchgroup.com": [
+        "IT Operations Support Specialist"
     ],
-    "amer@smartmindsys.com": [
-        "Application Support"
+    "fawaz.alnasr@harbico.com": [
+        "Recruiter Officer"
     ],
-    "anas.janajrah@thepalladiumgroup.com": [
-        "\u0645\u062f\u064a\u0631 \u0645\u0634\u0631\u0648\u0639\u060c \u0645\u0647\u0646\u062f\u0633 \u062a\u0642\u0646\u064a\u060c \u062e\u0628\u064a\u0631 ITSM / IT Operations\u060c \u062e\u0628\u064a\u0631 \u062f\u0639\u0645 \u062a\u0642\u0646\u064a \u0648\u062a\u062d\u0644\u064a\u0644 \u0623\u062f\u0648\u0627\u062a\u060c \u0645\u062d\u0644\u0644 \u0623\u0639\u0645\u0627\u0644\u060c \u0645\u0647\u0646\u062f\u0633 \u0628\u0646\u064a\u0629 \u062d\u0644\u0648\u0644\u060c \u0645\u0647\u0646\u062f\u0633 \u062a\u0643\u0627\u0645\u0644 \u0646\u0638\u0645"
-    ],
-    "n.pinchuk@ladwigconsulting.com": [
-        "SAP Consultant (FICO / HCM / PP)"
-    ],
-    "nawaf.alshehri@nagarro.com": [
-        "Machine learning AI"
-    ],
-    "M.qarmout@elite-fast.com": [
-        "\u0645\u0646\u062f\u0648\u0628 \u0645\u0628\u064a\u0639\u0627\u062a"
-    ],
-    "Resumes2022@hotmail.com": [
-        "Project Manager"
-    ],
-    "HUMANRESOURCES11@outlook.sa": [
-        "\u0645\u062a\u062e\u0635\u0635\u064a\u0646 \u0641\u064a Collaboration"
-    ],
-    "jobs@hoicom.net": [
-        "Full stack developer"
-    ],
-    "Jobs@hasib.com.sa": [
-        "\u0645\u0637\u0648\u0631 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062c\u0648\u0627\u0644"
-    ],
-    "me@turki.tw": [
-        "Quality Assurance (QA) Trainee"
-    ],
-    "job@goldencala.com": [
-        "Software engineer"
-    ],
-    "saal@naqlah.com.sa": [
-        "\u0627\u062e\u0635\u0627\u0626\u064a \u0645\u0628\u064a\u0639\u0627\u062a, \u0627\u062e\u0635\u0627\u0626\u064a \u062a\u0633\u0648\u064a\u0642, \u0645\u0646\u0641\u0630 \u0646\u0638\u0627\u0645 \u0623\u0648\u062f\u0648"
-    ],
-    "jobs@b8ak.com": [
-        "Product Manager"
-    ],
-    "recruitment@it-ranks.com": [
-        "Senior Oracle Apps DBA (EBS)"
-    ],
-    "jobs@dataframe.sa": [
-        "\u0645\u062f\u064a\u0631 \u0645\u0634\u0627\u0631\u064a\u0639 (Project Manager), \u0645\u062f\u064a\u0631 \u062d\u0633\u0627\u0628 (Account Manager)"
-    ],
-    "admdki2014@gmail.com": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a/\u0645\u0633\u0624\u0648\u0644 \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a"
-    ],
-    "HR@ghamdiwoods.com": [
-        "IT, Accountant, Receptionist"
-    ],
-    "div-rsd@infosysta.com": [
-        "IT Operations Lead, Software Development Team Lead, IT Technical Support Lead, Senior Technical Support Specialist, Technical Support Specialist (OutSystem), Senior Software Developer (OutSystem), Software Developer (OutSystem), UI Specialist (OutSystem), Alteryx Engineer, DevOps Engineer, Solutions Architect, Quality Assurance Engineer, Senior Business Analyst, Project Manager"
-    ],
-    "hr2@royaleblue.net": [
-        "IT Sales Specialist"
-    ],
-    "Nahed.Nabil@a1softech.com": [
-        "Junior IT Technical Support, Cyber Security Engineer, Database Development, System Engineer, Backup Disaster Recovery"
-    ],
-    "MElTahawy@sisglobal.net": [
-        "RAN Optimization Senior Engineer"
-    ],
-    "vikas.khuntia@flint-international.me": [
-        "Cyber Security Risk Specialist"
-    ],
-    "trinergy.tech.sa@gmail.com": [
-        "HCIS Security Project Manager"
-    ],
-    "elizabeth.boykova@liberaconsultants.com": [
-        "SAP Project Manager (S4Hana), Turnaround Senior Manager, Material Management Manager"
-    ],
-    "Ahmed.khaled@next-tech.com.eg": [
-        "IT Governance Specialist"
-    ],
-    "baag.senan@gmail.com": [
-        "\u0642\u0627\u0626\u062f \u0644\u0644\u062f\u0639\u0645 \u0627\u0644\u0641\u0646\u064a"
-    ],
-    "m.elnajar@tawantech.sa": [
-        "Scrum Master"
-    ],
-    "flordeliza.tibubos@hintel.com": [
-        "Director - IT Business Relationship Management"
-    ],
-    "hr@alsafwah.com": [
-        "Operation Manager"
-    ],
-    "imran.tariq@hrbs.com.pk": [
-        "Data Engineer, Data Scientist, Software Engineer (Python), Software Engineer (Java), Software Engineer - Front-end (Angular/React)"
-    ],
-    "vinoth.sankar@royalcyber.com": [
-        "SAP Project Manager"
-    ],
-    "hr@lajhar.net": [
-        "Full-Stack Developer (Web & Mobile)"
-    ],
-    "jobs@bkec.sa": [
-        "\u0645\u0647\u0646\u062f\u0633 \u0633\u0644\u0627\u0645\u0629 \u0648\u0635\u062d\u0629 \u0645\u0647\u0646\u064a\u0629"
-    ],
-    "joe.cullum@whitehallresources.com": [
-        "S/4HANA PMO"
-    ],
-    "Job@hr360s.com": [
-        "\u0645\u062f\u064a\u0631 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u2013 Operations Manager"
-    ],
-    "hrshahad554@gmail.com": [
-        "Executive Secretary to the CEO",
-        "IT Technical Support / Network Technician"
-    ],
-    "rec.cv96@gmail.com": [
-        "IT Support Specialist",
-        "IT Support Specialist"
-    ],
-    "recruitment.hr2035@gmail.com": [
-        "\u0645\u0635\u0645\u0645 \u0627\u0648 \u0645\u0635\u0645\u0645\u0629 \u062c\u0631\u0627\u0641\u064a\u0643",
-        "\u0627\u062e\u0635\u0627\u0626\u064a \u0645\u062e\u062a\u0628\u0631",
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u0645\u062e\u062a\u0628\u0631"
-    ],
-    "ghada@awn.sa": [
-        "IT Manager, Software Specialist"
-    ],
-    "job@wajdlife.com": [
-        "\u0641\u0646\u064a \u0645\u064a\u0643\u0627\u0646\u064a\u0643\u0627 \u0639\u0627\u0645\u060c \u0641\u0646\u064a \u062a\u0643\u064a\u064a\u0641 \u0648\u062a\u0628\u0631\u064a\u062f\u060c \u0641\u0646\u064a \u0643\u0647\u0631\u0628\u0627\u0621\u060c \u0641\u0646\u064a \u0643\u0647\u0631\u0628\u0627\u0621 \u062c\u0647\u062f \u0639\u0627\u0644\u064a \u0648\u0645\u062a\u0648\u0633\u0637\u060c \u0641\u0646\u064a \u0645\u0635\u062f\u0627\u062a \u0647\u064a\u062f\u0631\u0648\u0644\u064a\u0643\u064a\u0629\u060c \u0645\u0634\u063a\u0644 BMC\u060c \u0641\u0646\u064a \u0623\u0646\u0638\u0645\u0629 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0631\u0627\u0642\u0628\u0629"
-    ],
-    "hr@sigmas-it.com": [
-        "Lead Infrastructure Architect, Infrastructure Engineer"
-    ],
-    "a.raya@exp-sa.com, M.Rizk@exp-sa.com": [
-        "Odoo Implementer"
-    ],
-    "recruitment.k2030@gmail.com": [
-        "Power Platform Developer, D365 Test Analyst, IT Asset Coordinator, IT Project Coordinator, DevOps Engineer, Information Security Engineer, UI Path Specific, Microsoft Dynamics 365 Finance & Operations Retail Developer"
-    ],
-    "deema.almulhim@alkifah.edu.sa": [
-        "AI Teacher"
-    ],
-    "Mohammed.alsaggaf@ananas.sa": [
-        "\u0645\u0637\u0648\u0631 Angular \u0623\u0648 Spring Boot"
-    ],
-    "hrak92e@gmail.com": [
-        "System Application Specialist"
-    ],
-    "Alfiyaalhadeed@gmail.com": [
-        "\u0645\u0637\u0648\u0651\u0631 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0645\u0648\u0627\u0642\u0639"
-    ],
-    "jobs@maloon.sa": [
-        "Oracle Consultant",
-        "\u0645\u0633\u0627\u0639\u062f \u0625\u062f\u0627\u0631\u064a"
-    ],
-    "Hr.mbn.group@gmail.com": [
-        "\u0645\u0628\u0631\u0645\u062c \u2013 AI \u0648\u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a"
-    ],
-    "SulRecruit@outlook.com": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062f\u0639\u0645 \u0633\u0637\u062d \u0627\u0644\u0645\u0643\u062a\u0628 \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a"
-    ],
-    "Careers@wakeb.tech": [
-        "junior software developer"
-    ],
-    "rec@nag.com.sa": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a ERPNext"
-    ],
-    "dev.cis@hotmail.com": [
-        "Senior Web Engineer"
-    ],
-    "r.aldubiyan@saudiflags.com.sa": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a Odoo"
-    ],
-    "info@baitshook.com": [
-        "IT Operations Manager"
-    ],
-    "job@rasekh.sa": [
-        "\u0645\u0628\u0631\u0645\u062c ASP / PHP",
-        "\u0645\u062f\u064a\u0631 \u0645\u0634\u0631\u0648\u0639 \u062a\u0642\u0646\u064a"
-    ],
-    "info@hhtdigital.com": [
-        "IT Solution Sales Executive"
-    ],
-    "admin@averroes-academy.com": [
-        "Google Cloud ML Engineer Trainer"
-    ],
-    "hr.job2230@gmail.com": [
-        "IT Engineer"
-    ],
-    "girls-jobs@alaqsa.edu.sa": [
-        "\u0645\u0639\u0644\u0645\u0629"
-    ],
-    "recruitment.cv@outlook.sa": [
-        "\u062a\u0642\u0646\u064a\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a",
-        "\u062a\u0642\u0646\u064a\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a"
-    ],
-    "recruitment@abareez.com": [
-        "IT Specialist"
-    ],
-    "career@vision.edu.sa": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062f\u0639\u0645 \u0641\u0646\u064a"
-    ],
-    "talent2030x1@gmail.com": [
-        "Network Specialist, Operation & Maintenance Section Head"
-    ],
-    "Careers@almayal.com": [
-        "\u0645\u0647\u0646\u062f\u0633 \u062d\u0627\u0633\u0628 \u0622\u0644\u064a \u0648\u0623\u0646\u0638\u0645\u0629 \u062a\u062d\u0643\u0645"
-    ],
-    "Recruit@sarhsfa.com": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062a\u062d\u0644\u064a\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u062e\u0628\u064a\u0631 \u0628\u0627\u0648\u0631 \u0628\u064a \u0622\u064a"
-    ],
-    "Careers@thuriah.com.sa": [
-        "\u0645\u062f\u064a\u0631 \u062a\u0642\u0646\u064a\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a",
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062f\u0639\u0645 \u0641\u0646\u064a"
-    ],
-    "hr@iwebgrocer.sa": [
-        "\u0645\u0648\u0638\u0641 \u062a\u0642\u0646\u064a\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a (IT) \u2013 Odoo"
-    ],
-    "career@nytrogin.com": [
-        "\u0625\u062f\u0627\u0631\u064a\u060c \u0623\u062e\u0635\u0627\u0626\u064a \u0628\u0644\u0627\u063a\u0627\u062a (\u0643\u0648\u0644 \u0633\u0646\u062a\u0631)\u060c \u0645\u0631\u0627\u0642\u0628 \u0645\u064a\u062f\u0627\u0646\u064a",
-        "\u0645\u0634\u0631\u0641 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a",
-        "\u0645\u0631\u0627\u0642\u0628 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a",
-        "\u0645\u0634\u0631\u0641"
-    ],
-    "Hrm.gapp2021@gmail.com": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a / \u0623\u062e\u0635\u0627\u0626\u064a\u0629 \u0645\u0646\u0627\u0642\u0635\u0627\u062a",
-        "\u0645\u0647\u0646\u062f\u0633 \u0623\u0646\u0638\u0645\u0629 \u0645\u0631\u0627\u0642\u0628\u0629 \u0648\u062a\u0634\u063a\u064a\u0644 \u0645\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0634\u0628\u0643\u0627\u062a"
-    ],
-    "Sr.TalentExpert@gmail.com": [
-        "Chief Operating Officer (COO)"
-    ],
-    "jobsholdingsa@gmail.com": [
-        "\u0641\u0646\u064a \u062c\u0648\u0627\u0644\u0627\u062a \u0648\u0643\u0645\u0628\u064a\u0648\u062a\u0631"
-    ],
-    "raaco2026@gmail.com": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062a\u0642\u0646\u064a\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a"
-    ],
-    "Careers@dream-schools.com.sa": [
-        "\u0645\u0639\u0644\u0645\u0629 \u062d\u0627\u0633\u0628 \u0622\u0644\u064a"
-    ],
-    "Recruitment@mcdc.com.sa": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u0634\u0628\u0643\u0627\u062a"
-    ],
-    "jobs@kascco.sa": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a\u0629 \u0628\u0646\u064a\u0629 \u062a\u062d\u062a\u064a\u0629 \u0648\u062a\u0642\u0646\u064a\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a"
-    ],
-    "m.aldawish@talentsacquisition.com": [
-        "Digital PMO Specialist"
-    ],
-    "jobs@bec-cs.com": [
-        "\u0623\u062e\u0635\u0627\u0626\u064a \u062a\u0642\u0646\u064a\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a (IT Specialist)"
+    "mounika.karlapudi@infinite.com": [
+        "Support Engineer, IT Service Desk/Helpdesk Analyst, Customer Service Representative"
     ]
 }

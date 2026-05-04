@@ -49,7 +49,7 @@ try:
             )
             if response.text:
                 move(file, f'job_postings-dump/{folder}{idx}')
-
+            
             data = dict(email_data.model_validate_json(response.text))
             email = data['email']
             job_title = data['job_title']
@@ -61,7 +61,7 @@ try:
             else:
                 email_title[email] = [job_title]
 finally:
-    json_str = json.dumps(email_title, indent=4)
+    json_str = json.dumps(email_title, indent=4, ensure_ascii=False)
     with open('email_job-title.json', 'w', encoding='utf-8') as jsonFile:
         jsonFile.write(json_str)
 if __name__ == "__main__":

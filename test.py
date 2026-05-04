@@ -1,35 +1,21 @@
-from google import genai
-from google.genai import types
-from pydantic import BaseModel, Field
-from typing import List, Optional
+import smtplib
 from dotenv import find_dotenv, load_dotenv
-import pathlib
+from email.message import EmailMessage
 import os
-load_dotenv(find_dotenv())
+import json
 
-gemeni_api= os.getenv("gemeni_api") 
-client = genai.Client(api_key=gemeni_api)
 
-prompt = "please extract the email, and job title from the document"
+with open('email_job-title.json', encoding='utf-8') as file:
+    job_posts = json.load(file)
 
-filepath = pathlib.Path("itcjobs/job0.txt")
 
-class email_data(BaseModel):
-    email: str = Field(description="Email address in document")
-    job_title: str = Field(description="Job title in document")
-
-response = client.models.generate_content(
-  model="gemini-3-flash-preview",
-  contents=[
-      types.Part.from_bytes(
-        data=filepath.read_bytes(),
-        mime_type='text/plain',
-      ),
-      prompt
-  ],
-  config={"response_mime_type": "application/json",
-          "response_json_schema": email_data.model_json_schema()}
-)
-
-data = email_data.model_validate_json(response.text)
-print(dict(data)) 
+# for idx, email in enumerate(job_posts.keys()):
+#     for job_title in job_posts[email]:
+#         print(job_title)
+#         print('-'*20)
+#         print(job_posts[email])
+#         ('-'*20)
+#         job_posts[email].remove(job_title)
+#     if idx == 2:
+#         break
+        
