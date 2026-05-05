@@ -6,55 +6,75 @@ import json
 import re
 import time
 
-try:
-    with open('email_job-title.json', encoding='utf-8') as file:
-        job_posts = json.load(file)
-except:
-    print('failed to open file')
-    
 load_dotenv(find_dotenv())
 
-keywords = ['data', 'ETL', 'Bussiness', 'AI', 'Artificial', 'machine', 'natural', 'NLP', 'ML', 'Large', 'LLM', 'MLOPs', 'BI', 'DBA', 'cloud']
+keywords = ['data', 'ETL', 'Business', 'AI', 'Artificial', 'machine', 'natural', 'NLP', 'ML', 'Large', 'LLM', 'MLOps', 'BI', 'DBA', 'cloud']
 email_address = os.getenv('EMAIL_USER')
 email_password = os.getenv('EMAIL_PASSWORD')
 
-try:
+def run_emailer():
+    try:
+        with open('email_job-title.json', encoding='utf-8') as file:
+            job_posts = json.load(file)
+    except FileNotFoundError:
+        print('email_job-title.json not found')
+        return
+    
+    # Load sent emails to avoid duplicates
+    sent_file = 'sent_emails.json'
+    try:
+        with open(sent_file, 'r', encoding='utf-8') as f:
+            sent = json.load(f)
+    except FileNotFoundError:
+        sent = {}
+    
     for email in job_posts.keys():
         for job_title in job_posts[email]:
-            time.sleep(10)
             if not job_title:
-                break
+                continue
+            key = f"{email}:{job_title}"
+            if key in sent:
+                continue  # Already sent
+            time.sleep(10)  # Rate limiting
             msg = EmailMessage()
             msg['Subject'] = job_title
             msg['From'] = email_address
-            msg['TO'] = email
+            msg['To'] = email
             msg.set_content(f"""
-            Greetings, I would like to express my interest in the {job_title} role.
+Greetings, I would like to express my interest in the {job_title} role.
 
-            You will find me an excellent candidate for this role to know more about me, please read the CV attached.
+You will find me an excellent candidate for this role. To know more about me, please read the CV attached.
 
-            Thank you in advance, and best regards
+Thank you in advance, and best regards
 
-            Salman Alsayab. """)
-            flag = [True for element in job_title if element in keywords]
+Salman Alsayab.""")
+            flag = any(element.upper() in map(str.upper, keywords) for element in job_title.split())
             if flag:
                 pdf_path = "cv/Salman Alsayab CV.pdf"
-                pdf_name = re.split('/', pdf_path)[-1]
+                pdf_name = "Salman Alsayab CV.pdf"
             else:
                 pdf_path = "cv/CV_IT.pdf"
-                pdf_name = re.split('/', pdf_path)[-1]
-            with open(pdf_path, 'rb') as f:
-                file_data = f.read()
-                msg.add_attachment(
-                    file_data,
-                    maintype='application',
-                    subtype='pdf',
-                    filename=pdf_name
-                )
-            with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
-                smtp.login(email_address, email_password)
-                smtp.send_message(msg)
-except:
-    print('error')
-            
+                pdf_name = "CV_IT.pdf"
+            try:
+                with open(pdf_path, 'rb') as f:
+                    file_data = f.read()
+                    msg.add_attachment(
+                        file_data,
+                        maintype='application',
+                        subtype='pdf',
+                        filename=pdf_name
+                    )
+                with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
+                    smtp.login(email_address, email_password)
+                    smtp.send_message(msg)
+                print(f"Email sent to {email} for {job_title}")
+                sent[key] = True
+            except Exception as e:
+                print(f"Error sending email to {email}: {e}")
+    
+    # Save sent emails
+    with open(sent_file, 'w', encoding='utf-8') as f:
+        json.dump(sent, f, indent=4)
+
+
     

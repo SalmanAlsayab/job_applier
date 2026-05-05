@@ -1,6 +1,6 @@
 .env
-itcjobs
-job_postings-dump
-technomajed
+itcjobs/
+job_postings-dump/
+technomajed/
 test.py
-CVs
+cv

@@ -1,21 +1,20 @@
-import smtplib
-from dotenv import find_dotenv, load_dotenv
-from email.message import EmailMessage
+from telethon import TelegramClient, events
+from dotenv import load_dotenv, find_dotenv
 import os
-import json
 
+load_dotenv(find_dotenv())
+api_id= os.getenv("API_ID")
+api_hash= os.getenv("API_HASH")
 
-with open('email_job-title.json', encoding='utf-8') as file:
-    job_posts = json.load(file)
+# Initialize the client
+client = TelegramClient('session_name', api_id, api_hash)
 
+# Listen for messages in a specific channel
+@client.on(events.NewMessage(from_users='Salman'))
+async def my_event_handler(event):
+    with open('new_messages.txt', 'a') as file:
+        file.write(f"{event.text} \n")
 
-# for idx, email in enumerate(job_posts.keys()):
-#     for job_title in job_posts[email]:
-#         print(job_title)
-#         print('-'*20)
-#         print(job_posts[email])
-#         ('-'*20)
-#         job_posts[email].remove(job_title)
-#     if idx == 2:
-#         break
-        
+# Start the client and keep it running
+client.start()
+client.run_until_disconnected()
