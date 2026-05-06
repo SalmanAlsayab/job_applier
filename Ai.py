@@ -24,7 +24,7 @@ def run_ai():
     email_title = {}
     pathlib.Path('job_postings-dump').mkdir(exist_ok=True)
     try:
-        directory = "new_messages"
+        directory = pathlib.Path("new_messages")
         for idx, file in enumerate(directory.iterdir()):
             if not file.is_file():
                 continue
@@ -47,7 +47,7 @@ def run_ai():
                     data = dict(email_data.model_validate_json(response.text))
                     email = data['email']
                     job_title = data['job_title']
-                    if email in email_title:
+                    if email in email_title.keys():
                         if job_title not in email_title[email]:
                             email_title[email].append(job_title)
                     else:

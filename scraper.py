@@ -20,7 +20,6 @@ try:
         channels_url = data["channel"]
 except:
     print("failed to read json file")
-    channels_url = []
 
 async def joinChannel(client, channel):
     try:
@@ -48,6 +47,7 @@ async def run_scraper():
         for channel in channels_url:
             await joinChannel(client, channel=channel)
             await scrapeMessage(client, channel=channel, limit=5)
+        
 
 # Remove the direct execution
 # if __name__ == "__main__":

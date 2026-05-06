@@ -4,3 +4,7 @@ job_postings-dump/
 technomajed/
 test.py
 cv
+__pycache__
+new_messages/
+anon.session
+session_name.session

@@ -10,12 +10,16 @@ async def main():
             print("Starting scraper...")
             await run_scraper()
             print("Scraper done. Starting AI processing...")
-            run_ai()
+            try:
+                run_ai()
+            except Exception as e:
+                print(f"encountered the following while running ai.py: {e}")
             print("AI processing done. Starting emailer...")
             run_emailer()
-            print("Emailer done. Sleeping for 10 seconds...")
+            print("Emailer done. Sleeping for 30 minutes...")
             await asyncio.sleep(1800)
-        except:
-            asyncio.sleep(1000)
+        except Exception as e:
+            print(f"encountered error: {e}")
+            await asyncio.sleep(1000)
 if __name__ == "__main__":
     asyncio.run(main())

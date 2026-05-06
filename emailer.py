@@ -22,11 +22,15 @@ def run_emailer():
     
     # Load sent emails to avoid duplicates
     sent_file = 'sent_emails.json'
-    try:
-        with open(sent_file, 'r', encoding='utf-8') as f:
-            sent = json.load(f)
-    except FileNotFoundError:
-        sent = {}
+    sent = {}
+    if os.path.exists(sent_file):
+        try:
+            with open(sent_file, encoding='utf-8') as f:
+                content = f.read()
+                if content.strip():
+                    sent = json.loads(content)
+        except json.JSONDecodeError:
+            pass
     
     for email in job_posts.keys():
         for job_title in job_posts[email]:
@@ -74,7 +78,8 @@ Salman Alsayab.""")
     
     # Save sent emails
     with open(sent_file, 'w', encoding='utf-8') as f:
-        json.dump(sent, f, indent=4)
+        json.dump(sent, f, indent=4, ensure_ascii=False)
 
 
-    
+if __name__=='__main__':
+    run_emailer()
