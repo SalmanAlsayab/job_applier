@@ -44,7 +44,7 @@ A Python program that scrapes Telegram messages to automate job application work
 ## Usage
 
 ```bash
-python job_applier.py
+python main.py
 ```
 
 For more detailed usage instructions, refer to the documentation or code comments in the main script.
